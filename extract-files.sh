@@ -17,7 +17,7 @@
 
 set -e
 
-DEVICE=idol3
+DEVICE=9006W
 VENDOR=alcatel
 
 # Load extractutils and do some sanity checks

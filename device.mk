@@ -20,4 +20,4 @@ DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 # Include package config fragments
 include $(LOCAL_PATH)/product/*.mk
 
-$(call inherit-product-if-exists, vendor/alcatel/idol3/idol3-vendor.mk)
+$(call inherit-product-if-exists, vendor/alcatel/9006W/9006W-vendor.mk)

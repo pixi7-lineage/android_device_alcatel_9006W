@@ -16,4 +16,4 @@ TARGET_KERNEL_HEADER_ARCH := arm64
 TARGET_USES_UNCOMPRESSED_KERNEL := true
 
 # Kernel
-TARGET_KERNEL_CONFIG := cyanogenmod_idol3_defconfig
+TARGET_KERNEL_CONFIG := cyanogenmod_9006W_defconfig

@@ -15,15 +15,14 @@
 #
 
 # Inherit from those products. Most specific first.
-$(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
-# Inherit from idol3 device
-$(call inherit-product, device/alcatel/idol3/device.mk)
+# Inherit from 9006W device
+$(call inherit-product, device/alcatel/9006W/device.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := idol3
-PRODUCT_NAME := full_idol3
+PRODUCT_DEVICE := 9006W
+PRODUCT_NAME := full_9006W
 PRODUCT_BRAND := ALCATEL
-PRODUCT_MODEL := Idol 3
-PRODUCT_MANUFACTURER := ALCATEL ONETOUCH
+PRODUCT_MODEL := Pixi 7
+PRODUCT_MANUFACTURER := ALCATEL ONETOUCH PIXI 7

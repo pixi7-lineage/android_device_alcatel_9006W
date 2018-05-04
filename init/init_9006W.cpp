@@ -86,8 +86,8 @@ void init_alarm_boot_properties()
 
 void common_properties()
 {
-        property_set("ro.product.device", "idol3");
-        property_set("ro.build.product", "idol3");
+        property_set("ro.product.device", "9006W");
+        property_set("ro.build.product", "9006W");
 }
 
 void dualsim_properties(char const multisim_config[])
@@ -107,7 +107,7 @@ void vendor_load_properties()
     int rc;
 
     rc = property_get("ro.cm.device", device);
-    if (!rc || strncmp(device, "idol3", PROP_VALUE_MAX))
+    if (!rc || strncmp(device, "9006W", PROP_VALUE_MAX))
         return;
 
     property_get("ro.cm.curef", curef_version);

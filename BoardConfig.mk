@@ -13,12 +13,12 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-LOCAL_PATH := device/alcatel/idol3
+LOCAL_PATH := device/alcatel/9006W
 
 TARGET_SPECIFIC_HEADER_PATH := $(LOCAL_PATH)/include
 
 
-include device/alcatel/idol3/board/*.mk
+include device/alcatel/9006W/board/*.mk
 
 # inherit from the proprietary version
--include vendor/alcatel/idol3/BoardConfigVendor.mk
+-include vendor/alcatel/9006W/BoardConfigVendor.mk

@@ -20,4 +20,4 @@ Front Camera | 8 MP
 Release Date | March 2015
 
 
-![Alcatel Idol 3 5.5](http://im.ziffdavisinternational.com/pcmag_me/photo/default/alcatel-one-touch-idol-3-2_xp51.jpg "Alcatel Idol 3 5.5")
+![Alcatel ONETOUCH Pixi 7](http://im.ziffdavisinternational.com/pcmag_me/photo/default/alcatel-one-touch-idol-3-2_xp51.jpg "Alcatel ONETOUCH Pixi 7")
